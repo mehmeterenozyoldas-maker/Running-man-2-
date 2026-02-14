@@ -1,0 +1,5 @@
+{
+  "name": "Neon String Runner",
+  "description": "A real-time 3D simulation of a humanoid figure composed of thousands of flowing, bioluminescent strings driven by Verlet physics.",
+  "requestFramePermissions": []
+}
